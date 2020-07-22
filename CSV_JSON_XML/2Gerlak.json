@@ -1,0 +1,35 @@
+{
+	"products": 
+	[
+		{
+			"type": "Monitor",
+			"name": "Dell SE2416H",
+			"manufacturer": "Dell",
+			"price": 3290
+		},
+		{
+			"type": "SSD",
+			"name": "Samsung 860 Evo",
+			"manufacturer": "Samsung",
+			"price": 1499
+		},
+		{
+			"type": "Headphones",
+			"name": "Logitech Stereo Headset H110",
+			"manufacturer": "Logitech",
+			"price": 499
+		},
+		{
+			"type": "USB flash drive",
+			"name": "SanDisk Ultra Dual",
+			"manufacturer": "SanDisk",
+			"price": 239
+		},
+		{
+			"type": "Phone",
+			"name": "Galaxy S9",
+			"manufacturer": "Samsung",
+			"price": 10999
+		}
+	]
+}

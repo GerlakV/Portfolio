@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product>
+		<type>Monitor</type>
+		<name price="3290">Dell SE2416H</name>
+		<manufacturer>Dell</manufacturer>
+	</product>
+	<product>
+		<type>SSD</type>
+		<name price="1499">Samsung 860 Evo</name>
+		<manufacturer>Samsung</manufacturer>
+	</product>
+	<product>
+		<type>Headphones</type>
+		<name price="499">Logitech Stereo Headset H110</name>
+		<manufacturer>Logitech</manufacturer>
+	</product>
+	<product>
+		<type>USB flash drive</type>
+		<name price="239">SanDisk Ultra Dual</name>
+		<manufacturer>SanDisk</manufacturer>
+	</product>
+	<product>
+		<type>Phone</type>
+		<name price="10999">Galaxy S9</name>
+		<manufacturer>Samsung</manufacturer>
+	</product>
+</products>
